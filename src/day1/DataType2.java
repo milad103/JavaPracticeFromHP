@@ -14,7 +14,8 @@ public class DataType2 {
 
         boolean isAdult = true;
         // char takes single quotes only 'x'
-        char nameInitial = 'M';
+        char nameInitial = 'x';
+
 
         System.out.println(theByte);
         System.out.println(theShort);

@@ -1,7 +1,7 @@
 package usa;
 
 
-import cANADA.Montreal;
+import canada.Montreal;
 
 public class NYC {
     public static void main(String[] args) {
@@ -10,7 +10,6 @@ public class NYC {
 
         Atlanta atlanta =new Atlanta();
         atlanta.TSAprecheckPass();
-        Montreal ref = new Montreal();
 
 
 
